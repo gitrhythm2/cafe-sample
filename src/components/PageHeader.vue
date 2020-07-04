@@ -3,9 +3,9 @@
     <h1 class="logo"><a href="/">Le café d'Hiro</a></h1>
     <nav class="header-nav">
       <ul>
-        <li><a href="menu">Menu</a></li>
-        <li><a href="news">News</a></li>
-        <li><a href="contact">Contact</a></li>
+        <li><router-link to="/menu">Menu</router-link></li>
+        <li><router-link to="news">News</router-link></li>
+        <li><router-link to="contact">Contact</router-link></li>
       </ul>
     </nav>
   </header>
