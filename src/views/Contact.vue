@@ -16,10 +16,10 @@
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator'
-import PageHeader from '../components/PageHeader.vue'
-import PageFooter from '../components/PageFooter.vue'
-import ContactForm from '../components/ContactForm.vue'
-import Location from '../components/Location.vue'
+import PageHeader from '../components/Organisms/PageHeader.vue'
+import PageFooter from '../components/Organisms/PageFooter.vue'
+import ContactForm from '../components/Organisms/ContactForm.vue'
+import Location from '../components/Organisms/Location.vue'
 
 @Component({
   components: {

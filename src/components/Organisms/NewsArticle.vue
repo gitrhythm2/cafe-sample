@@ -1,7 +1,7 @@
 <template>
   <div>
     <post-header></post-header>
-    <img src="../../public/images/space.jpg" alt="店内の様子">
+    <img src="../../../public/images/space.jpg" alt="店内の様子">
     <p>
       控えめなトーンの店内では、ヴィンテージのマランツ・JBLと共に２万枚のレコードコレクションが皆様をお待ちしております。
       リクエストもお気軽にどうぞ。
@@ -11,7 +11,7 @@
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator'
-import PostHeader from './PostHeader.vue'
+import PostHeader from '../Molecules/PostHeader.vue'
 
 @Component({
   components: {

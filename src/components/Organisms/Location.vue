@@ -11,19 +11,19 @@
         </p>
         <div class="sns">
           <a href="https://twitter.com/gitrhythm">
-            <img src="../../public/images/brandlogos/Twitter_Social_Icon_Circle_Color.png" alt="Twitter Icon">
+            <img src="../../../public/images/brandlogos/Twitter_Social_Icon_Circle_Color.png" alt="Twitter Icon">
           </a>
           <a href="https://www.instagram.com/gitrhythm/">
-            <img src="../../public/images/brandlogos/IG_Glyph_Fill.png" alt="Instagram Icon">
+            <img src="../../../public/images/brandlogos/IG_Glyph_Fill.png" alt="Instagram Icon">
           </a>
           <a href="https://github.com/gitrhythm2/cafe-sample">
-            <img src="../../public/images/brandlogos/GitHub-Mark-64px.png" alt="GitHub Icon">
+            <img src="../../../public/images/brandlogos/GitHub-Mark-64px.png" alt="GitHub Icon">
           </a>
           <a href="https://www.youtube.com/channel/UC9pY8PDxlAXcvM2tDGhjSgg">
-            <img src="../../public/images/brandlogos/logo youtube.png" alt="Youtube Icon">
+            <img src="../../../public/images/brandlogos/logo youtube.png" alt="Youtube Icon">
           </a>
           <a href="https://www.flickr.com/photos/gitrhythm">
-            <img class="flickr-logo" src="../../public/images/brandlogos/flickr.png" alt="Flickr Icon">
+            <img class="flickr-logo" src="../../../public/images/brandlogos/flickr.png" alt="Flickr Icon">
           </a>
         </div>
       </div>
@@ -43,7 +43,7 @@ export default class Location extends Vue {
 </script>
 
 <style scoped lang="scss">
-@import "../assets/css/_variables";
+@import "../../assets/css/_variables";
 
 #location {
   display: flex;

@@ -23,10 +23,10 @@
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator'
-import PageHeader from '../components/PageHeader.vue'
-import PageFooter from '../components/PageFooter.vue'
-import NewsArticle from '../components/NewsArticle.vue'
-import NewsAside from '../components/NewsAside.vue'
+import PageHeader from '../components/Organisms/PageHeader.vue'
+import PageFooter from '../components/Organisms/PageFooter.vue'
+import NewsArticle from '../components/Organisms/NewsArticle.vue'
+import NewsAside from '../components/Organisms/NewsAside.vue'
 
 @Component({
   components: {

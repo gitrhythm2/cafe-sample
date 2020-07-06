@@ -23,7 +23,7 @@
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator'
-import PageHeader from '../components/PageHeader.vue'
+import PageHeader from '../components/Organisms/PageHeader.vue'
 
 @Component({
   components: {

@@ -24,7 +24,7 @@ export default class NewsAside extends Vue {
 </script>
 
 <style scoped lang="scss">
-@import "../assets/css/_variables";
+@import "../../assets/css/_variables";
 
 .sub-title {
   font-size: 2.2rem;

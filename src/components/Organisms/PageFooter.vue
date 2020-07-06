@@ -13,7 +13,7 @@ export default class PageFooter extends Vue {
 </script>
 
 <style scoped lang="scss">
-@import "../assets/css/_variables";
+@import "../../assets/css/_variables";
 
 .footer {
   display: flex;

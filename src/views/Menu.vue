@@ -54,8 +54,8 @@
 
 <script lang="ts">
 import { Component, Prop, Vue } from 'vue-property-decorator'
-import PageHeader from '../components/PageHeader.vue'
-import PageFooter from '../components/PageFooter.vue'
+import PageHeader from '../components/Organisms/PageHeader.vue'
+import PageFooter from '../components/Organisms/PageFooter.vue'
 
 @Component({
   components: {

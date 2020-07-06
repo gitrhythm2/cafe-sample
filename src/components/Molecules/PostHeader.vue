@@ -15,7 +15,7 @@ export default class PostHeader extends Vue {
 </script>
 
 <style scoped lang="scss">
-@import "../assets/css/_variables";
+@import "../../assets/css/_variables";
 
 .post-info {
   position: relative;
